@@ -1,0 +1,12 @@
+# 应用名称
+spring:
+  application:
+    name: binary2decimal
+
+server:
+  servlet:
+    encoding:
+      charset: utf-8
+    # 应用的访问路径
+    context-path:
+  port: 8082
